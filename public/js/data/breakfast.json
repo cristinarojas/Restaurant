@@ -1,6 +1,6 @@
 {
 
-    "breakfast":{
+    "menu":{
         "B1":{
             "platillo":"Desayuno español",
             "tipo":"Pan a la Catalana, o Pan con Tomate, en España es sencillo, pero realmente delicioso.",
@@ -65,6 +65,6 @@
             "platillo":"Desayuno danés",
             "tipo":"En un plato de desayuno danes encontrarás a menudo el pan de centeno, queso, salami, jamón, paté, miel, mermelada e incluso a veces delgadas 'planchas' de chocolate.",
             "price":30
-        },
+        }
     }
 }

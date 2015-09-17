@@ -1,6 +1,6 @@
 {
 
-    "lunch":{
+    "menu":{
         "L1":{
             "platillo":"Soufflé de espinacas",
             "tipo":"De crema de color blanca y verde, acompañada de un poco de arroz. Tenía una apariencia bonita.",
@@ -65,6 +65,6 @@
             "platillo":"Garbanzos con Acelgas",
             "tipo":"Más contundente, imposible. Si buscabas una comida sana y que pueda satisfacer a una familia difícil de complacer.",
             "price":40
-        },
+        }
     }
 }
