@@ -1,0 +1,7 @@
+@import '../_variables';
+@import '../_mixins';
+
+@media only screen and (max-device-width: 1024px) {
+    @include adjustLogo(15px);
+    @include adjustDataTable(90%);
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JS_exercise",
+  "version": "0.0.1",
+  "author": "Cristina Elizabeth Rojas zamora",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
+    "normalize-css": "latest",
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "requirejs-plugins": "latest"
+  }
+}

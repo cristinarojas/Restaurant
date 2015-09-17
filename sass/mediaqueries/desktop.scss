@@ -1,0 +1,10 @@
+@import '../_variables';
+@import '../_mixins';
+
+@media only screen and (min-width: 1281px) {
+    @include adjustFooter(250px);
+}
+
+@media only screen and (max-width: 1280px) {
+    @include adjustLogo(15px);
+}

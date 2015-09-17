@@ -1,0 +1,69 @@
+.page-wrapper {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 80%;
+
+    header {
+        .logo {
+            width: 300px;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .content {
+        .data-table {
+            margin: 0 auto;
+            width: 40%;
+
+            tbody {
+                @include prefix(font-smoothing, antialiased);
+                @include prefix(opacity, 0.9);
+                background-color: $bgColor;
+                border: 1px solid $lightGray;
+                color: $black;
+                font-weight: $fontWeightLight;
+                font-size: 1em;
+
+                td {
+                    padding: 5px;
+                    text-align: left;
+                    border-bottom: 1px solid $darkGray;
+
+                    &.price {
+                        padding-right: 15px;
+                        text-align: right;
+                        width: 40px;
+                    }
+
+                    #show {
+                        background-color: $black;
+                        border: $black;
+                        color: $white;
+                        padding: 3px;
+                        width: 60px;
+                        float: right;
+
+                        &:focus {
+                            outline: 0;
+                        }
+
+                        &:hover {
+                            @include prefix(opacity, 0.7);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    footer {
+        @include prefix(font-smoothing, antialiased);
+        margin-top: 50px;
+        color: $white;
+        font-size: .9em;
+    }
+}
+

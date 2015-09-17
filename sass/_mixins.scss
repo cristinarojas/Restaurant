@@ -1,0 +1,43 @@
+// Mixin to include all the browser prefixes
+@mixin prefix($property, $value) {
+    #{'-moz-' + $property}: $value;
+    #{'-webkit-' + $property}: $value;
+    #{'-o-' + $property}: $value;
+    #{'-ms-' + $property}: $value;
+    #{$property}: $value;
+}
+
+// Mixin to adjust the logo in mediaqueries
+@mixin adjustLogo($marginBottom, $width: false) {
+    .page-wrapper {
+        header {
+            .logo {
+                @if $width {
+                    width: $width;
+                }
+
+                margin-bottom: $marginBottom;
+            }
+        }
+    }
+}
+
+// Mixin to adjust the data table in mediaqueries
+@mixin adjustDataTable($width) {
+    .page-wrapper {
+        .content {
+            .data-table {
+                width: $width;
+            }
+        }
+    }
+}
+
+// Mixin to adjust the footer in mediaqueries
+@mixin adjustFooter($marginTop) {
+    .page-wrapper {
+        footer {
+            margin-top: $marginTop;
+        }
+    }
+}
