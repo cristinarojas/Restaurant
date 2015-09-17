@@ -6,8 +6,8 @@
     var _ = require('lodash');
 
     // Merging data objects
-    var objectA = require('json!data/options_20140310.json');
-    var objectB = require('json!data/option_prices_20140310.json');
+    var objectA = require('json!data/breakfast.json');
+    var objectB = require('json!data/lunch.json');
     var objectC = _.merge({}, objectA, objectB);
 
     // Getting default prices (base price, inspect price & delivery price)

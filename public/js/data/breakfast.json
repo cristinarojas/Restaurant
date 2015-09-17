@@ -4,67 +4,67 @@
         "B1":{
             "platillo":"Desayuno español",
             "tipo":"Pan a la Catalana, o Pan con Tomate, en España es sencillo, pero realmente delicioso.",
-            "price":0
+            "price":25
         },
         "B2":{
             "platillo":"Desayuno francés",
             "tipo":"Cualquiera pensaría que comerían “Pan Frances”, jeje pero no, consta de croissants con almendras molidas, la mantequilla, el chocolate o crema.",
-            "price":0
+            "price":30
         },
         "B3":{
             "platillo":"Desayuno hawaiano",
             "tipo":"Un plato repleto de fruta acompañado de un panecillo.",
-            "price":0
+            "price":40
         },
         "B4":{
             "platillo":"Desayuno alemán",
             "tipo":"Quesos y pan recién horneado es lo que normalmente se degusta para un desayuno alemán. Acompañado con un delicioso café.",
-            "price":0
+            "price":35
         },
         "B5":{
             "platillo":"Desayuno italiano",
             "tipo":"Un desayuno ligero para prepararse para grandes comidas o cenas, consta de un croissant acompañado de un capuchino.",
-            "price":0
+            "price":40
         },
         "B6":{
             "platillo":"Desayuno americano",
             "tipo":"Panqueques caseros con un jarabe espeso y arándanos, con trozos de tocino.",
-            "price":0
+            "price":55
         },
         "B7":{
             "platillo":"Desayuno venezolano",
             "tipo":"Empanadas están a la orden del dia. los puedes encontrar rellenos de pollo, carne o jamon y queso, pero puedes encontrar cualquier otra combinación de verduras y arroz.",
-            "price":0
+            "price":40
         },
         "B8":{
             "platillo":"Desayuno portugués",
             "tipo":"Una deliciosa y sencilla aventura con croissants rellenos y servido con un café.",
-            "price":0
+            "price":30
         },
         "B9":{
             "platillo":"Desayuno inglés",
             "tipo":"Debe contar con frijoles, salchichas, tocino, huevos, champiñones, papas y pan tostado. Por supuesto, todo debe de estar acompañado con una taza de té negro.",
-            "price":0
+            "price":40
         },
         "B10":{
             "platillo":"Desayuno argentino",
             "tipo":"Por lo general consiste en el mate (una bebida de infusión hecha con hojas de yerba) o dulce de leche, un dulce típico. acompañado de unas medialunas",
-            "price":0
+            "price":25
         },
         "B11":{
             "platillo":"Desayuno mexicano",
             "tipo":"Los chilaquiles son rojos o verdes, según el tipo de chile y las especias que se usen, con cebolla frita, queso fundido y totopos o tortilla de maiz troceada. Si son completos, se les agrega también pollo cocido en tiras.",
-            "price":0
+            "price":30
         },
         "B12":{
             "platillo":"Desayuno irlandés",
             "tipo":"Tal como se observa, un desayuno completo Huevos, salchicha, carnes, pan y frijoles.",
-            "price":0
+            "price":55
         },
         "B13":{
             "platillo":"Desayuno danés",
             "tipo":"En un plato de desayuno danes encontrarás a menudo el pan de centeno, queso, salami, jamón, paté, miel, mermelada e incluso a veces delgadas 'planchas' de chocolate.",
-            "price":0
+            "price":30
         },
     }
 }

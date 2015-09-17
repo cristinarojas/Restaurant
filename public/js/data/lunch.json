@@ -4,67 +4,67 @@
         "L1":{
             "platillo":"Soufflé de espinacas",
             "tipo":"De crema de color blanca y verde, acompañada de un poco de arroz. Tenía una apariencia bonita.",
-            "price":0
+            "price":45
         },
         "L2":{
             "platillo":"Lomo strogonoff",
             "tipo":"El lomo strogonoff es un contundente plato de fondo, cuya historia data de la tradición rusa y, como tal, es capaz de doblegar a los paladares más exigente.",
-            "price":0
+            "price":50
         },
         "L3":{
             "platillo":"Vainita saltada con huevo",
             "tipo":"La vainita es una verdura súper nutritiva y llena de proteínas para una mejor dieta diaria. La mayoría de veces la usamos para nuestras ensaladas, pero esta vez te daré una opción diferente.",
-            "price":0
+            "price":55
         },
         "L4":{
             "platillo":"Guiso de tomate y aceitunas verdes",
             "tipo":"Balanceado y delicioso este guiso, ideal para regímenes de adelgazamiento, combina perfectamente las vitaminas.",
-            "price":0
+            "price":60
         },
         "L5":{
             "platillo":"Pavo a la naranja con arroz y verduras",
             "tipo":"Baja en grasa y libre de colesterol, la carne del pavo puede ser preparada de la misma manera que la del pollo.",
-            "price":0
+            "price":50
         },
         "L6":{
             "platillo":"Pastelitos de camote y poro",
             "tipo":"De suave y dulce sabor el camote, también llamado batata o boniato, es un poderoso antioxidante y regenerador. Su carne semihúmeda es ideal para preparaciones al horno.",
-            "price":0
+            "price":45
         },
         "L7":{
             "platillo":"Ratatouille de verduras gratinadas",
             "tipo":"Originaria de la región de Provenza la ratatouille es una especialidad francesa muy popular en todo el mundo.",
-            "price":0
+            "price":30
         },
         "L8":{
             "platillo":"Pisto con chuletas de cerdo",
             "tipo":"De origen español el pisto es es una excelente guarnición para cualquier tipo de carne o pescado.",
-            "price":0
+            "price":35
         },
         "L9":{
             "platillo":"Medallones de cerdo con manzana",
             "tipo":"Una de las carnes más consumidas a nivel mundial es la carne de cerdo, especialmente saludable si el corte es magro.",
-            "price":0
+            "price":60
         },
         "L10":{
             "platillo":"Chuletas de cerdo con col",
             "tipo":"Las chuletas de cerdo, bajas en grasas, mezcladas con una deliciosa combinación de col y especias.",
-            "price":0
+            "price":70
         },
         "L11":{
             "platillo":"Tofu con ajonjolí y vegetales horneados",
             "tipo":"Inmejorable fuente de proteínas vegetales, el tofu es un alimento bastante sano que toma el sabor del aderezo que quieras darle.",
-            "price":0
+            "price":50
         },
         "L12":{
             "platillo":"Costillas de Cerdo Glaseadas",
             "tipo":"Son pocos los momentos en que podemos darnos el gusto (y darlo, al mismo tiempo) de preparar un plato delicado.",
-            "price":0
+            "price":55
         },
         "L13":{
             "platillo":"Garbanzos con Acelgas",
             "tipo":"Más contundente, imposible. Si buscabas una comida sana y que pueda satisfacer a una familia difícil de complacer.",
-            "price":0
+            "price":40
         },
     }
 }
